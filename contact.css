@@ -106,6 +106,7 @@ nav  {
 
   .buttons {
    justify-self: flex-end;
+   padding-bottom: 15px;
    
   }
 
